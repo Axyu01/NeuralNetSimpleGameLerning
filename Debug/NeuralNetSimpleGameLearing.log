@@ -1,0 +1,4 @@
+﻿  NeuralNetSimpleGameLearing.cpp
+C:\Users\sosik\source\repos\NeuralNetSimpleGameLearing\NeuralNetSimpleGameLearing.cpp(57,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sosik\source\repos\NeuralNetSimpleGameLearing\NeuralNetSimpleGameLearing.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NeuralNetSimpleGameLearing.vcxproj -> C:\Users\sosik\source\repos\NeuralNetSimpleGameLearing\Debug\NeuralNetSimpleGameLearing.exe
